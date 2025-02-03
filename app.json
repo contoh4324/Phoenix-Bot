@@ -1,9 +1,9 @@
 {
-  "name": "Phoenix-MD",
+  "name": "lonely-botz",
   "version": "0.0.1",
   "description": "A Simple But Advanced WhatsApp Bot",
   "logo": "https://i.imgur.com/T78fhJk.jpeg",
-  "keywords": ["whatsapp", "bot", "md", "multi-device", "Phoenix", "Phoenix-MD", "wabot", "termux-bot", "sc-bot", "plugins", "AbhishekSuresh", "Whatsapp-bot-md"],
+  "keywords": ["whatsapp", "bot", "md", "multi-device", "lonely", "lonely-botz, "wabot", "termux-bot", "sc-bot", "plugins", "AbhishekSuresh", "Whatsapp-bot-md"],
   "repository": "https://github.com/AbhishekSuresh2/Phoenix-Bot",
   "stack": "container",
   "env": {
@@ -24,17 +24,17 @@
     "BOT_INFO": {
       "description": "Enter Your Bot Info",
       "required": false,
-      "value": "ᴘʜᴏᴇɴɪx-ᴍᴅ;ᴀʙʜɪꜱʜᴇᴋ ꜱᴜʀᴇꜱʜ;919074692450;https://i.ibb.co/tHWJrz3/IMG-20231128-WA0005.jpg"
+      "value": "lonely-botz;ᴀʙʜɪꜱʜᴇᴋ ꜱᴜʀᴇꜱʜ;919074692450;https://i.ibb.co/tHWJrz3/IMG-20231128-WA0005.jpg"
     },
     "STICKER_DATA": {
       "description": "Enter Your Sticker PackName And Author Name",
       "required": false,
-      "value": "🎯ᴘʜᴏᴇɴɪx-ᴍᴅ;ᴀʙʜɪꜱʜᴇᴋ ꜱᴜʀᴇꜱʜ☘️"
+      "value": "🎯lonely-botz;ᴀʙʜɪꜱʜᴇᴋ ꜱᴜʀᴇꜱʜ☘️"
     },
     "AUDIO_DATA": {
       "description": "Enter Your Audio Data",
       "required": false,
-      "value": "Phoenix-MD;Abhishek Suresh;https://graph.org/file/8976892f2f615077b48cd.jpg"
+      "value": "lonely-botz;Abhishek Suresh;https://graph.org/file/8976892f2f615077b48cd.jpg"
     },
     "START_MSG": {
       "description": "If You Want To Get Started Message Type true. Otherwise, Type false",

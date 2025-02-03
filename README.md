@@ -6,7 +6,7 @@
   </a>
 </div>
 
-Phoenix-MD is a secure, end-to-end encrypted WhatsApp bot built using Node.js. It leverages the [@whiskeysockets/baileys](https://github.com/whiskeysockets/baileys) Npm for interacting with WhatsApp API. This bot does not store any user data and is designed with user privacy in mind.
+lonely-botz is a secure, end-to-end encrypted WhatsApp bot built using Node.js. It leverages the [@whiskeysockets/baileys](https://github.com/whiskeysockets/baileys) Npm for interacting with WhatsApp API. This bot does not store any user data and is designed with user privacy in mind.
 
 ***
 
